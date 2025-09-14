@@ -1,0 +1,19 @@
+{
+  "name": "kalkulator_enggar",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "type": "module",
+  "main": "test.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test spesified \\\"&&1\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^6.0.1",
+    "mocha": "^11.7.2",
+    "supertest": "^7.1.4"
+  }
+
+ 
+}
